@@ -99,7 +99,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "MY Wordpress",
+        title: "我的Wordpress站点",
         href: "http://47.100.116.38/wordpress/"
     }
 ]
