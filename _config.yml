@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
-SEOTitle: xy2333_的博客 | BY Blog
+title: XY Blog
+SEOTitle: xy2333_的博客 | XY Blog
 header-img: img/post-bg-home.jpg
 email: x783645916@163.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, xy2333_的博客, xy2333_"
+keyword: "XY, XY Blog, xy2333_的博客, xy2333_"
 url: "http://xy-233.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/xy-233/xy-233.github.io.git" # you code repository
