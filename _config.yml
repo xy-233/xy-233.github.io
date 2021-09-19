@@ -7,7 +7,7 @@ description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, xy2333_的博客, xy2333_"
 url: "http://xy-233.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/xy2333_/xy2333_.github.io.git" # you code repository
+github_repo: "https://github.com/xy-233/xy-233.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
