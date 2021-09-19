@@ -17,7 +17,7 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 
 # SNS settings
-RSS: false
+#RSS: false
 weibo_username:     xy2333_
 zhihu_username:     xiay-60
 github_username:    xy-233
@@ -30,7 +30,7 @@ github_username:    xy-233
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
-permalink: rouge
+permalink: pretty
 paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
