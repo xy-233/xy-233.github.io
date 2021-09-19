@@ -1,7 +1,7 @@
 # Site settings
 title: XY Blog
 SEOTitle: xy2333_的博客 | XY Blog
-header-img: img/post-bg-home.jpg
+header-img: https://pic.imgdb.cn/item/614705492ab3f51d91d2027c.jpg
 email: x783645916@163.com
 description: "Every failure is leading towards success."
 keyword: "XY, XY Blog, xy2333_的博客, xy2333_"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/xy-233/xy-233.github.io.git" # you code reposit
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: https://pic.imgdb.cn/item/614705492ab3f51d91d2027c.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
