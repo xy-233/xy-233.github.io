@@ -99,7 +99,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "我的Wordpress站点",
-        href: "http://47.100.116.38/wordpress/"
+        title: "Python 大佬的博客",
+        href: "https://haotian.lv/"
     }
 ]
