@@ -9,6 +9,7 @@ catalog: true 						# 是否归档
 tags:								#标签
     - Python
     - Socket
+    - Flask
 ---
 ## 前言
 
