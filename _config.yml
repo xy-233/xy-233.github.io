@@ -1,9 +1,9 @@
 # Site settings
 title: XY Blog
 SEOTitle: xy2333_的博客 | XY Blog
-header-img: img/post-bg-home.jpg
+header-img: img/home-bg-o.jpg
 email: x783645916@163.com
-description: "Every failure is leading towards success."
+description: "I guess I'm not strong enough, right now."
 keyword: "XY, XY Blog, xy2333_的博客, xy2333_"
 url: "http://xy-233.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,15 +11,16 @@ github_repo: "https://github.com/xy-233/xy-233.github.io.git" # you code reposit
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "Hold on to your wishes"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 #RSS: false
-weibo_username:     xy2333_
-zhihu_username:     xiay-60
+# weibo_username:     xy2333_
+# zhihu_username:     xiay-60
+steam_username:     xy_233
 github_username:    xy-233
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
