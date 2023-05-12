@@ -27,11 +27,11 @@ tags:								#标签
 
 直到找到[这个网站](https://wiki.vg/)下的这段资料：
 
-> ## Current (1.7+)
+> ###### Current (1.7+)
 >
 > This uses the regular client-server [protocol](https://wiki.vg/Protocol "Protocol"). For the general packet format, see that article.
 >
-> ### Handshake
+> ###### Handshake
 >
 > First, the client sends a [Handshake](https://wiki.vg/Protocol#Handshake "Protocol") packet with its state set to 1.
 >
@@ -42,7 +42,7 @@ tags:								#标签
 > | Server Port    | Unsigned Short   | Default is 25565. The Notchian server does not use this information.                                                                                                                                                                                                                                                                                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 > | Next state     | VarInt           | Should be 1 for[status](https://wiki.vg/Protocol#Status "Protocol"), but could also be 2 for [login](https://wiki.vg/Protocol#Login "Protocol").                                                                                                                                                                                                                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 >
-> ### Status Request
+> ###### Status Request
 >
 > The client follows up with a [Status Request](https://wiki.vg/Protocol#Status_Request "Protocol") packet. This packet has no fields. The client is also able to skip this part entirely and send a [Ping Request](https://wiki.vg/Protocol#Ping_Request "Protocol") instead.
 >
@@ -50,7 +50,7 @@ tags:								#标签
 > | --------- | ------------- | ---------- | ----- |
 > | 0x00      | *no fields* |            |       |
 >
-> ### Status Response
+> ###### Status Response
 >
 > The server should respond with a [Status Response](https://wiki.vg/Protocol#Status_Response "Protocol") packet. Note that Notchian servers will for unknown reasons wait to receive the following [Ping Request](https://wiki.vg/Protocol#Ping_Request "Protocol") packet for 30 seconds before timing out and sending Response.
 >
